@@ -11,6 +11,11 @@ I'm a marketing data scientist with a passion for solving tough, messy problems 
 - Leveling up in **Azure**, **data engineering**, and **cloud architecture**
 
 ---
+## 📍 Areas of Strength
+- **Marketing & Customer Analytics** — Segmentation, Attribution, CLV, Loyalty Engagement
+- **Forecasting & Experimentation** — XGBoost, Prophet, MMM, SQL-based baselining
+- **Dashboards & Automation** — Databricks, Python, SQL, Plotly, Vercel
+---
 
 ## 🧠 Interests
 - Demand forecasting & media mix modeling
@@ -21,8 +26,8 @@ I'm a marketing data scientist with a passion for solving tough, messy problems 
 ---
 
 ## 🤝 Open to Collaborate On
-- Retail and eCommerce analytics projects
-- Public dashboards and visual storytelling
+- Retail, eCommerce, and product analytics projects
+- Public dashboards, LLM-enabled insights and visual storytelling
 - Data science education or training resources
 
 ---
@@ -51,6 +56,7 @@ Here are a few things I’ve been building recently — more coming soon.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Databricks](https://img.shields.io/badge/Databricks-E36C00?style=flat&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
