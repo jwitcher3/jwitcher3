@@ -5,7 +5,7 @@ I'm a marketing data scientist with a passion for solving tough, messy problems 
 ---
 
 ## 🚀 What I’m Working On
-- **Marketing & consumer analytics** at scale (adidas)
+- **Marketing & consumer analytics** at scale
 - Building dashboards and tools for internal and public use (see [Retail Trend Tracker](https://retail-trend-tracker.vercel.app/))
 - Teaching forecasting fundamentals to non-technical teams
 - Leveling up in **Azure**, **data engineering**, and **cloud architecture**
