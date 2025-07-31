@@ -44,6 +44,19 @@ Here are a few things I’ve been building recently — more coming soon.
 - 📊 Franchise & Buyer Analytics (coming soon)  
   Transactional dashboards for buyer behavior, loyalty impact, and product trends across Nike and adidas workstreams.
 
+## 📊 GitHub Stats & Badges
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jwitcher3&show_icons=true&theme=default&hide_rank=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jwitcher3&layout=compact&hide=html&theme=default)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=postgresql&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E36C00?style=flat&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 <!---
 jwitcher3/jwitcher3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
