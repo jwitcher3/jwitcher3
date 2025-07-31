@@ -1,19 +1,50 @@
-👋 Hello, Im James
+# 👋 Hey, I'm James Witcher
+
+I'm a marketing data scientist with a passion for solving tough, messy problems — especially where consumer behavior meets analytics. I’ve worked at Nike, adidas, and Intel, using Python, SQL, Javascript, and tools like Databricks and Snowflake to turn massive datasets into actionable insights.
+
 ---
 
-- I'm currently working as a marketing data scientist for Nike.
-  - Previous role Data Scientist at Intel.
-- 👀 I’m interested in solving difficult and challengening problems.
-- 📚 I’m currently mastering ...
-  - Data Stack tech (DataBricks, Snowflake, etc.)
-  - Understanding marketing data trends.
-  - Azure Cloud
-  - Data Engineering
-- 🤜🤛 I'm looking to collaborate on ...
-  - Any interesting projects.. 😏
-- 📫 How to reach me ...
-[Linkedin](https://www.linkedin.com/in/james-witcher/) |
-[Email](mailto:james.witcher@outlook.com)
+## 🚀 What I’m Working On
+- **Marketing & consumer analytics** at scale (adidas)
+- Building dashboards and tools for internal and public use (see [Retail Trend Tracker](https://retail-trend-tracker.vercel.app/))
+- Teaching forecasting fundamentals to non-technical teams
+- Leveling up in **Azure**, **data engineering**, and **cloud architecture**
+
+---
+
+## 🧠 Interests
+- Demand forecasting & media mix modeling
+- Customer segmentation and personalization
+- Full-stack data apps (from pipeline to dashboard)
+- Open-source trend tracking tools
+
+---
+
+## 🤝 Open to Collaborate On
+- Retail and eCommerce analytics projects
+- Public dashboards and visual storytelling
+- Data science education or training resources
+
+---
+
+## 📫 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/james-witcher/) • [Email](mailto:james.witcher@outlook.com)
+
+---
+
+## 📌 Featured Projects
+Here are a few things I’ve been building recently — more coming soon.
+
+- 🧠 [Forecasting Fundamentals](https://github.com/jwitcher3/forecasting-fundamentals)  
+  A workshop and notebook series walking through business forecasting with XGBoost and Prophet.
+
+- 📈 [Retail Trend Tracker](https://github.com/jwitcher3/retail-trend-tracker)  
+  A lightweight dashboard that scrapes Google Trends sneaker/fashion data to surface what's hot or not each week.
+
+- 📊 Franchise & Buyer Analytics (coming soon)  
+  Transactional dashboards for buyer behavior, loyalty impact, and product trends across Nike and adidas workstreams.
+
+
 <!---
 jwitcher3/jwitcher3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
