@@ -47,7 +47,7 @@ Here are a few things I’ve been building recently — more coming soon.
   A lightweight dashboard that scrapes Google Trends sneaker/fashion data to surface what's hot or not each week.
 
 - 📊 Franchise & Buyer Analytics (coming soon)  
-  Transactional dashboards for buyer behavior, loyalty impact, and product trends across Nike and adidas workstreams.
+  Transactional dashboards for buyer behavior, loyalty impact, and product trends across multiple workstreams.
 
 ## 📊 GitHub Stats & Badges
 
