@@ -46,6 +46,12 @@ Here are a few things I’ve been building recently — more coming soon.
 - 📈 [Retail Trend Tracker](https://github.com/jwitcher3/retail-trend-tracker)  
   A lightweight dashboard that scrapes Google Trends sneaker/fashion data to surface what's hot or not each week.
 
+- 🧪 [M5 Causal Lift (Incrementality Sandbox)](https://github.com/jwitcher3/m5-causal-lift)  
+  End-to-end causal lift sandbox using **M5-style simulated retail data** to evaluate **DiD/Event Study** and **Synthetic Control (ridge SCM)** against **known ground truth**.  
+  Includes a **Streamlit app**, diagnostics (pre-fit RMSE, stability CV), and **placebo tests** (fake treatment dates) to sanity-check lift.  
+  **Use case:** a realistic template for implementing incrementality measurement on real retail data (store / channel / segment; units / demand / conversion).
+    _Run it:_ `./scripts/demo.sh` → launches the Streamlit app locally.
+
 - 📊 Franchise & Buyer Analytics (coming soon)  
   Transactional dashboards for buyer behavior, loyalty impact, and product trends across multiple workstreams.
 
