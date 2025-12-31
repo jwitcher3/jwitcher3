@@ -1,65 +1,63 @@
-# 👋 Hey, I'm James Witcher
+# 👋 Hey, I’m James Witcher
 
-I'm a marketing data scientist with a passion for solving tough, messy problems — especially where consumer behavior meets analytics. I’ve worked at Nike, adidas, and Intel, using Python, SQL, Javascript, and tools like Databricks and Snowflake to turn massive datasets into actionable insights.
+Marketing Data Scientist building **forecasting, experimentation, and causal measurement systems** for retail/eCommerce — turning messy behavioral data into decisions.  
+Previously: Nike • adidas • Intel | Python • SQL • Databricks • Snowflake • Streamlit
+
+🔗 [LinkedIn](https://www.linkedin.com/in/james-witcher/) • ✉️ [Email](mailto:james.witcher@outlook.com) • 🧭 [Retail Trend Tracker (live)](https://retail-trend-tracker.vercel.app/)
+
+---
+
+## ⭐ Featured Projects
+
+### 🧪 M5 Causal Lift (Incrementality Sandbox)
+**Repo:** https://github.com/jwitcher3/m5-causal-lift  
+End-to-end incrementality sandbox on **M5-style simulated retail data** with known ground truth.  
+- Methods: **DiD / Event Study** • **Synthetic Control (ridge SCM, optional log1p)**  
+- Trust checks: pre-trend checks • diagnostics (pre-fit RMSE, stability CV) • **placebo tests** (fake treatment dates/windows)  
+- Includes a **Streamlit app** + donor weight interpretability  
+- Run: `./scripts/demo.sh` (launches Streamlit locally)
+
+### 📈 Retail Trend Tracker (live)
+**Live:** https://retail-trend-tracker.vercel.app/  
+**Repo:** https://github.com/jwitcher3/retail-trend-tracker  
+Deployed dashboard surfacing retail/sneaker trend signals to quickly see “what’s up / what’s down.”  
+- Focus: franchise-level trend monitoring and lightweight public dashboards  
+- Stack: Python • JavaScript • Plotly • Vercel
+
+### 🏛️ EDGAR Retail — SEC Filings → Clean Quarterly Dataset (WIP)
+**Repo:** https://github.com/jwitcher3/edgar-retail  
+Hands-on ETL project that pulls messy public **SEC EDGAR filings (10-K / 10-Q) + XBRL financials** for selected retail brands, then reshapes them into **tidy quarterly tables** for analysis.  
+- **Outputs:** DuckDB + Parquet dataset combining financials (revenue, inventory, gross profit) with simple filing text signals  
+  (mentions of **inventory**, **promotions/markdowns**, **guidance**, etc.)  
+- **Use case:** quickly spot “pressure quarters” where the numbers *and* management language indicate stress  
+- **End goal:** interactive dashboard to pick a company, view trends over time, and flag quarters worth investigating  
 
 ---
 
-## 🚀 What I’m Working On
-- **Marketing & consumer analytics** at scale
-- Building dashboards and tools for internal and public use (see [Retail Trend Tracker](https://retail-trend-tracker.vercel.app/))
-- Teaching forecasting fundamentals to non-technical teams
-- Leveling up in **Azure**, **data engineering**, and **cloud architecture**
-
----
-## 📍 Areas of Strength
-- **Marketing & Customer Analytics** — Segmentation, Attribution, CLV, Loyalty Engagement
-- **Forecasting & Experimentation** — XGBoost, Prophet, MMM, SQL-based baselining
-- **Dashboards & Automation** — Databricks, Python, SQL, Plotly, Vercel
----
-
-## 🧠 Interests
-- Demand forecasting & media mix modeling
-- Customer segmentation and personalization
-- Full-stack data apps (from pipeline to dashboard)
-- Open-source trend tracking tools
+## 🧰 Toolbox
+**Methods:** forecasting • experimentation • causal inference • segmentation • attribution/CLV  
+**Build:** dashboards • data apps • pipelines • reusable analytics templates  
+**Stack:** Python • SQL • Databricks • Snowflake • JavaScript • Streamlit • Plotly • Azure
 
 ---
 
 ## 🤝 Open to Collaborate On
 - Retail, eCommerce, and product analytics projects
-- Public dashboards, LLM-enabled insights and visual storytelling
+- Public dashboards, LLM-enabled insights, and visual storytelling
 - Data science education or training resources
 
 ---
 
-## 📫 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/james-witcher/) • [Email](mailto:james.witcher@outlook.com)
+<details>
+  <summary>📊 GitHub Stats</summary>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jwitcher3&show_icons=true&theme=default&hide_rank=true)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jwitcher3&layout=compact&hide=html&theme=default)
+</details>
 
 ---
 
-## 📌 Featured Projects
-Here are a few things I’ve been building recently — more coming soon.
-
-- 🧠 [Forecasting Fundamentals](https://github.com/jwitcher3/forecasting-fundamentals)  
-  A workshop and notebook series walking through business forecasting with XGBoost and Prophet.
-
-- 📈 [Retail Trend Tracker](https://github.com/jwitcher3/retail-trend-tracker)  
-  A lightweight dashboard that scrapes Google Trends sneaker/fashion data to surface what's hot or not each week.
-
-- 🧪 [M5 Causal Lift (Incrementality Sandbox)](https://github.com/jwitcher3/m5-causal-lift)  
-  End-to-end causal lift sandbox using **M5-style simulated retail data** to evaluate **DiD/Event Study** and **Synthetic Control (ridge SCM)** against **known ground truth**.  
-  Includes a **Streamlit app**, diagnostics (pre-fit RMSE, stability CV), and **placebo tests** (fake treatment dates) to sanity-check lift.  
-  **Use case:** a realistic template for implementing incrementality measurement on real retail data (store / channel / segment; units / demand / conversion).
-    _Run it:_ `./scripts/demo.sh` → launches the Streamlit app locally.
-
-- 📊 Franchise & Buyer Analytics (coming soon)  
-  Transactional dashboards for buyer behavior, loyalty impact, and product trends across multiple workstreams.
-
-## 📊 GitHub Stats & Badges
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jwitcher3&show_icons=true&theme=default&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jwitcher3&layout=compact&hide=html&theme=default)
-
+## 🏷️ Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
