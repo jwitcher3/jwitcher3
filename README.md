@@ -6,7 +6,7 @@ Previously: Nike • adidas • Intel | Python • SQL • Databricks • Snowfl
 🔗 [LinkedIn](https://www.linkedin.com/in/james-witcher/) • ✉️ [Email](mailto:james.witcher@outlook.com) • 🧭 [Retail Trend Tracker (live)](https://retail-trend-tracker.vercel.app/)
 
 
-# 🔎 Data & Reuse Note
+### 🔎 Data & Reuse Note
 
 > **Note:** Everything here uses publicly available and/or synthetic data, designed as reusable templates that can be adapted to real internal datasets.
 
