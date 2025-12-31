@@ -5,10 +5,10 @@ Previously: Nike • adidas • Intel | Python • SQL • Databricks • Snowfl
 
 🔗 [LinkedIn](https://www.linkedin.com/in/james-witcher/) • ✉️ [Email](mailto:james.witcher@outlook.com) • 🧭 [Retail Trend Tracker (live)](https://retail-trend-tracker.vercel.app/)
 
+---
 
-### 🔎 Data & Reuse Note
-
-> **Note:** Everything here uses publicly available and/or synthetic data, designed as reusable templates that can be adapted to real internal datasets.
+## 🔎 Data & Reuse Note
+> **Note:** Everything here uses **publicly available** and/or **synthetic** data, designed as reusable templates that can be adapted to real internal datasets.
 
 ---
 
@@ -34,7 +34,7 @@ Deployed dashboard surfacing retail/sneaker trend signals to quickly see “what
 Hands-on ETL project that pulls messy public **SEC EDGAR filings (10-K / 10-Q) + XBRL financials** for selected retail brands, then reshapes them into **tidy quarterly tables** for analysis.  
 - **Outputs:** DuckDB + Parquet dataset combining financials (revenue, inventory, gross profit) with simple filing text signals  
   (mentions of **inventory**, **promotions/markdowns**, **guidance**, etc.)  
-- **Use case:** quickly spot “pressure quarters” where the numbers *and* management language indicate stress  
+- **Use case:** quickly spot “pressure quarters” where the numbers and management language indicate stress  
 - **End goal:** interactive dashboard to pick a company, view trends over time, and flag quarters worth investigating  
 
 ---
@@ -42,7 +42,8 @@ Hands-on ETL project that pulls messy public **SEC EDGAR filings (10-K / 10-Q) +
 ## 🧰 Toolbox
 **Methods:** forecasting • experimentation • causal inference • segmentation • attribution/CLV  
 **Build:** dashboards • data apps • pipelines • reusable analytics templates  
-**Stack:** Python • SQL • Databricks • Snowflake • JavaScript • Streamlit • Plotly • Azure
+**Stack:** Python • SQL • Databricks • Snowflake • JavaScript • Streamlit • Plotly • Azure • DuckDB • Parquet  
+**Dev / Tooling:** Git • Make
 
 ---
 
@@ -78,6 +79,5 @@ Hands-on ETL project that pulls messy public **SEC EDGAR filings (10-K / 10-Q) +
 ![Make](https://img.shields.io/badge/Make-000000?style=flat&logo=gnu&logoColor=white)
 
 <!---
-jwitcher3/jwitcher3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+jwitcher3/jwitcher3 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
