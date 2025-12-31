@@ -72,6 +72,10 @@ Hands-on ETL project that pulls messy public **SEC EDGAR filings (10-K / 10-Q) +
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=000000)
+![Parquet](https://img.shields.io/badge/Parquet-000000?style=flat&logo=apache&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Make](https://img.shields.io/badge/Make-000000?style=flat&logo=gnu&logoColor=white)
 
 <!---
 jwitcher3/jwitcher3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
