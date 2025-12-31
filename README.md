@@ -7,6 +7,7 @@ Previously: Nike • adidas • Intel | Python • SQL • Databricks • Snowfl
 
 
 # 🔎 Data & Reuse Note
+
 All work shared here is built using **publicly available** and/or **synthetic** data.  
 The goal is to provide **reusable templates** (ETL, modeling, diagnostics, dashboards) that can be adapted to real internal data if you’d like to implement something similar in your own environment.
 ---
