@@ -4,7 +4,11 @@ Marketing Data Scientist building **forecasting, experimentation, and causal mea
 Previously: Nike • adidas • Intel | Python • SQL • Databricks • Snowflake • Streamlit
 
 🔗 [LinkedIn](https://www.linkedin.com/in/james-witcher/) • ✉️ [Email](mailto:james.witcher@outlook.com) • 🧭 [Retail Trend Tracker (live)](https://retail-trend-tracker.vercel.app/)
+![Previously: Nike, adidas, Intel](https://img.shields.io/badge/Previously-Nike%20%7C%20adidas%20%7C%20Intel-lightgrey)
 
+## 🔎 Data & Reuse Note
+All work shared here is built using **publicly available** and/or **synthetic** data.  
+The goal is to provide **reusable templates** (ETL, modeling, diagnostics, dashboards) that can be adapted to real internal data if you’d like to implement something similar in your own environment.
 ---
 
 ## ⭐ Featured Projects
