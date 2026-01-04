@@ -29,8 +29,9 @@ Deployed dashboard surfacing retail/sneaker trend signals to quickly see “what
 - Focus: franchise-level trend monitoring and lightweight public dashboards  
 - Stack: Python • JavaScript • Plotly • Vercel
 
-### 🏛️ EDGAR Retail — SEC Filings → Clean Quarterly Dataset (WIP)
+### 🏛️ EDGAR Retail — SEC Filings → Clean Quarterly Dataset (LIVE)
 **Repo:** https://github.com/jwitcher3/edgar-retail  
+**APP** https://edgar-retail-etl-jw.streamlit.app/
 Hands-on ETL project that pulls messy public **SEC EDGAR filings (10-K / 10-Q) + XBRL financials** for selected retail brands, then reshapes them into **tidy quarterly tables** for analysis.  
 - **Outputs:** DuckDB + Parquet dataset combining financials (revenue, inventory, gross profit) with simple filing text signals  
   (mentions of **inventory**, **promotions/markdowns**, **guidance**, etc.)  
