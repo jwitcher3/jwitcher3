@@ -24,7 +24,7 @@ End-to-end incrementality sandbox on **M5-style simulated retail data** with kno
 
 ### 📈 Retail Trend Tracker (live)
 **Live:** https://retail-trend-tracker.vercel.app/  
-**Repo:** https://github.com/jwitcher3/retail-trend-tracker  
+**Repo:** https://github.com/jwitcher3/retail-trend-tracker/  
 Deployed dashboard surfacing retail/sneaker trend signals to quickly see “what’s up / what’s down.”  
 - Focus: franchise-level trend monitoring and lightweight public dashboards  
 - Stack: Python • JavaScript • Plotly • Vercel
