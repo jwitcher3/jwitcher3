@@ -29,14 +29,17 @@ Deployed dashboard surfacing retail/sneaker trend signals to quickly see “what
 - Focus: franchise-level trend monitoring and lightweight public dashboards  
 - Stack: Python • JavaScript • Plotly • Vercel
 
-### 🏛️ EDGAR Retail — SEC Filings → Clean Quarterly Dataset (LIVE)
+### 🏛️ EDGAR Retail — SEC Filings → Quarterly “Pressure” Signals (LIVE)
 **Repo:** https://github.com/jwitcher3/edgar-retail  
-**APP** https://edgar-retail-etl-jw.streamlit.app  
-Hands-on ETL project that pulls messy public **SEC EDGAR filings (10-K / 10-Q) + XBRL financials** for selected retail brands, then reshapes them into **tidy quarterly tables** for analysis.  
-- **Outputs:** DuckDB + Parquet dataset combining financials (revenue, inventory, gross profit) with simple filing text signals  
-  (mentions of **inventory**, **promotions/markdowns**, **guidance**, etc.)  
-- **Use case:** quickly spot “pressure quarters” where the numbers and management language indicate stress  
-- **End goal:** interactive dashboard to pick a company, view trends over time, and flag quarters worth investigating  
+**App:** https://edgar-retail-etl-jw.streamlit.app  
+
+End-to-end ETL + analytics app that pulls public **SEC EDGAR filings (10-K / 10-Q) + XBRL financials** for selected retail brands and converts them into **clean quarterly tables** + an explainable **pressure signal**.
+
+- **Outputs:** DuckDB warehouse (bronze/silver/gold) + exportable CSV/MD/PDF/ZIP bundles  
+- **Signal:** `pressure_index` = normalized filing-language pressure + inventory-to-sales context  
+- **Evidence engine:** ranks and highlights the best filing excerpts (with SEC links) behind each quarter  
+- **Use cases:** earnings prep, competitive monitoring, promo/markdown intensity tracking, planning risk signals
+
 
 ---
 
